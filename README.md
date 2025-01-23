@@ -15,6 +15,12 @@ torch==1.13.1
 lark==1.1.9
 pandas==2.2.3
 ```
+## System use for Replication 
+Lenovo ThinkPad T470s
+Ram 12 GB 
+SSD 512 GB 
+Processor Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz   2.50 GHz
+
 ## Running the Experiments
 The experiments are stress tests measuring the computational running time of the fuzzy conformance checker by varying the number of events, the number of traces in the log, the complexity of the LTLf formula.
 
