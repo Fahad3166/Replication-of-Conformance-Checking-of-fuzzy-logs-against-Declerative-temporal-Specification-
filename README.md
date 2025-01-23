@@ -1,6 +1,3 @@
-# Replication-of-Conformance-Checking-of-fuzzy-logs-against-Declerative-temporal-Specification-
-is to check whether fuzzy event data conform with declarative temporal rules specified as Declare patterns or, more generally, as formulae of linear temporal logic over finite traces (LTLf ).
-
 # Fuzzy Linear Temporal Logic on Finite traces
 The repository implements the Replication of a fast conformance checker for fuzzy logs against temporal specifications in Fuzzy Linear Temporal Logic on finite traces (FLTLf) as described in the paper "Conformance Checking of Fuzzy Logs against Declarative Temporal Specifications".
 
